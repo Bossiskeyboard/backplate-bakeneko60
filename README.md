@@ -1,5 +1,5 @@
 # backplate-bakeneko60
-If you want to make a gb of this kb PM me at: Boss Keebs#5943 on discord
+IF YOU WANT TO MAKE A GB OF THIS KB PM ME: Boss Keebs#5943 on discord
 
 Download switch plate here: https://github.com/desuko-mirai/Bakeneko-Screw-In-Stabilizer-Plates
 
