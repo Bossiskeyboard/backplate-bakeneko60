@@ -31,3 +31,9 @@ https://github.com/4pplet/waffling60/releases/download/D1_MX/Gerber.zip pcb file
 
 O-ring size (185mm OD x 3.5 CS)
 
+Daughter Board list:
+https://cannonkeys.com/products/unified-daughterboard-and-jst-cable?pr_prod_strat=copurchase&pr_rec_id=8f2012b9a&pr_rec_pid=6708077101167&pr_ref_pid=6565542821999&pr_seq=uniform USA/CANADA
+
+https://4pplet.com/products/daughter-board-w-6-cable, https://hineybush.com/collections/pcbs/products/usb-c-daughterboard and https://keygem.com/en-nl/products/group-buy-ciel(if it's still in-stock) Europe
+
+https://mechkey.store/products/daughter-board-pcb South East Asia
