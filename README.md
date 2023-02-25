@@ -1,5 +1,4 @@
 # backplate-bakeneko60
-Backplate screw M3x4mm thread pitch is 0.5
 
 Credits to kkatano for the bakeneko keyboard
 
