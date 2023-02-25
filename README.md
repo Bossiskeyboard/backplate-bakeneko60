@@ -3,7 +3,7 @@ Download switch plate here: https://github.com/desuko-mirai/Bakeneko-Screw-In-St
 
 Credits to kkatano for the bakeneko keyboard
 
-I would also want to thank Elaine for letting me add the backplate design
+I would also want to thank Elaine for letting me use the backplate design
 
 I modified the back of the case to be more thicker to fit the backplate well
 
