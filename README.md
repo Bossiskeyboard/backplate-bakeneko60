@@ -37,3 +37,5 @@ https://cannonkeys.com/products/unified-daughterboard-and-jst-cable?pr_prod_stra
 https://4pplet.com/products/daughter-board-w-6-cable, https://hineybush.com/collections/pcbs/products/usb-c-daughterboard and https://keygem.com/en-nl/products/group-buy-ciel(if it's still in-stock) Europe
 
 https://mechkey.store/products/daughter-board-pcb South East Asia
+
+https://github.com/kb-elmo/simplified-daughterboard file
