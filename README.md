@@ -39,3 +39,7 @@ https://4pplet.com/products/daughter-board-w-6-cable, https://hineybush.com/coll
 https://mechkey.store/products/daughter-board-pcb South East Asia
 
 https://github.com/kb-elmo/simplified-daughterboard file
+
+if you need more help join this discord server 
+https://discord.gg/t2cubKte
+
