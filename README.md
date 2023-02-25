@@ -1,4 +1,5 @@
 # backplate-bakeneko60
+Download plate here: https://github.com/desuko-mirai/Bakeneko-Screw-In-Stabilizer-Plates
 
 Credits to kkatano for the bakeneko keyboard
 
