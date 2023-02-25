@@ -1,7 +1,7 @@
 # backplate-bakeneko60
 IF YOU WANT TO MAKE A GB OF THIS KB PM ME: Boss Keebs#5943 on discord
 
-backplate screws https://www.mcmaster.com/93395A196/
+backplate screws incase they gave you wrong lenght https://www.mcmaster.com/93395A196/
 
 Download switch plate here: https://github.com/desuko-mirai/Bakeneko-Screw-In-Stabilizer-Plates
 
