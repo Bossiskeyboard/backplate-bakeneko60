@@ -10,3 +10,5 @@ I modified the back of the case to be more thicker to fit the backplate well
 Inspired by JoeCastr bakeneko which was taken down by himself
 
 You can contact these people to manufacture the keyboard: https://www.instagram.com/gaojie.manufacturing.alva/, https://www.instagram.com/nash.prototype/ and https://www.instagram.com/wu.zamol/
+
+if you are in the USA i suggest Rikkachet#2267 on discord
