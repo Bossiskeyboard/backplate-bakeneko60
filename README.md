@@ -1,5 +1,5 @@
 # backplate-bakeneko60
-Image:https://cdn.discordapp.com/attachments/1079007318429147206/1079085762429059244/Screenshot_2023-02-25_235813.png
+Image:https://cdn.discordapp.com/attachments/1079007318429147206/1079314660869816320/bakaneko.png
 CANONKEYS PCB WILL NOT FIT
 
 IF YOU WANT TO MAKE A GB OF THIS KB PM ME: Boss Keebs#5943 on discord
