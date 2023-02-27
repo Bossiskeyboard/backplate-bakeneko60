@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'backplate.step',
-/* time_stamp */ '2023-02-27T08:23:26+07:00',
+/* time_stamp */ '2023-02-27T10:52:36+07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -9209,15 +9209,17 @@ SOLID_ANGLE_UNIT()
 #5713=PRODUCT_DEFINITION_SHAPE('',$,#5716);
 #5714=SHAPE_REPRESENTATION('',(#2860),#5706);
 #5715=PRODUCT_DEFINITION_CONTEXT('part definition',#5720,'design');
-#5716=PRODUCT_DEFINITION('(Unsaved)','(Unsaved)',#5717,#5715);
+#5716=PRODUCT_DEFINITION('backplate bakeneko60',
+'backplate bakeneko60 v3',#5717,#5715);
 #5717=PRODUCT_DEFINITION_FORMATION('',$,#5722);
-#5718=PRODUCT_RELATED_PRODUCT_CATEGORY('(Unsaved)','(Unsaved)',(#5722));
+#5718=PRODUCT_RELATED_PRODUCT_CATEGORY('backplate bakeneko60 v3',
+'backplate bakeneko60 v3',(#5722));
 #5719=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#5720);
 #5720=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #5721=PRODUCT_CONTEXT('part definition',#5720,'mechanical');
-#5722=PRODUCT('(Unsaved)','(Unsaved)',$,(#5721));
+#5722=PRODUCT('backplate bakeneko60','backplate bakeneko60 v3',$,(#5721));
 #5723=PRESENTATION_STYLE_ASSIGNMENT((#5726));
 #5724=PRESENTATION_STYLE_ASSIGNMENT((#5727));
 #5725=PRESENTATION_STYLE_ASSIGNMENT((#5728));
