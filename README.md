@@ -42,5 +42,5 @@ https://mechkey.store/products/daughter-board-pcb South East Asia
 https://github.com/kb-elmo/simplified-daughterboard file
 
 if you need more help join this discord server 
-kktano discord https://discord.gg/t2cubKte
+kkatano discord https://discord.gg/t2cubKte
 
