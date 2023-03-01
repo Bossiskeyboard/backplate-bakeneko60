@@ -22,7 +22,7 @@ if you are in the USA i suggest Rikkachet#2267 on discord to manufacture the kb
 PCB LIST:
 https://mechkey.store/products/krush-60-hotswap-pcb-v2 South East Asia
 
-https://4pplet.com/products/waffling60-bakeneko-unikorn-kei-alternative-pcb-60-mx and https://keygem.com/en-nl/products/group-buy-ciel (if it's still in-stock) Europe
+https://4pplet.com/products/waffling60-bakeneko-unikorn-kei-alternative-pcb-60-mx and https://keygem.com/en-nl/products/group-buy-ciel  (if it's still in-stock) Europe
 
 https://alphakeys.ca/collections/keyboards/products/ciel-gasket-60-extras USA/CANADA
 
