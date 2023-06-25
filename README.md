@@ -7,10 +7,12 @@ IF YOU WANT TO MAKE A GB OF THIS KB PM ME: Boss Papob#5943 on discord yes it you
 
 backplate screws incase they gave you wrong lenght https://www.mcmaster.com/93395A196/
 
+Credits to Elaine for allowing me to make it open source and inspiration (consider supporting Elaine. If you have an opportunity to get a unikorn, I suggest you do so)
+since this keyboard here doesn't use the unikorn pcb, it is not considered to be a full clone of the keybaord
 
 Credits to kkatano for the bakeneko keyboard
 
-I modified the back of the case to be more like a unikorn
+I modified the side profiles of the case to be more like a unikorn
 
 Inspired by JoeCastr bakeneko which was taken down by himself
 
