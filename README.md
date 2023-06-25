@@ -21,7 +21,7 @@ You can contact these people to manufacture the keyboard case and backplate: htt
 if you are in the USA i suggest Rikkachet#2267 on discord to manufacture the kb though they might charge more than the chinese manufactures
 
 
-PCB LIST:
+(PCB) LIST:
 https://mechkey.store/products/krush-60-hotswap-pcb-v2 South East Asia
 
 https://4pplet.com/products/waffling60-bakeneko-unikorn-kei-alternative-pcb-60-mx and https://keygem.com/en-nl/products/group-buy-ciel  (if it's still in-stock) Europe
@@ -35,7 +35,7 @@ O-ring size (185mm OD x 3.5 CS)
 
 
 
-Daughter Board list:
+(Daughter Board) list:
 https://cannonkeys.com/products/unified-daughterboard-and-jst-cable?pr_prod_strat=copurchase&pr_rec_id=8f2012b9a&pr_rec_pid=6708077101167&pr_ref_pid=6565542821999&pr_seq=uniform USA/CANADA
 
 https://4pplet.com/products/daughter-board-w-6-cable, https://hineybush.com/collections/pcbs/products/usb-c-daughterboard and https://keygem.com/en-nl/products/group-buy-ciel(if it's still in-stock) Europe
