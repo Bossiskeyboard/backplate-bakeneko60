@@ -10,13 +10,13 @@ backplate screws incase they gave you wrong lenght https://www.mcmaster.com/9339
 
 Credits to kkatano for the bakeneko keyboard
 
-I modified the back of the case to be thicker to fit the backplate well
+I modified the back of the case to be more like a unikorn
 
 Inspired by JoeCastr bakeneko which was taken down by himself
 
 You can contact these people to manufacture the keyboard case and backplate: https://www.instagram.com/gaojie.manufacturing.alva/, https://www.instagram.com/nash.prototype/ and https://www.instagram.com/wu.zamol/ if you are willing to pay the price of Al6063-T6 then i suggest you go with that for the case since it's what most endgame kb level use, if you want it to be budget level polycarbonate case or 6061 case
 
-if you are in the USA i suggest Rikkachet#2267 on discord to manufacture the kb
+if you are in the USA i suggest Rikkachet#2267 on discord to manufacture the kb though they might charge more than the chinese manufactures
 
 
 PCB LIST:
