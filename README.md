@@ -3,7 +3,6 @@ Image:https://cdn.discordapp.com/attachments/1051737122274541608/112185052824312
 
 CANONKEYS PCB WILL NOT FIT
 
-IF YOU WANT TO MAKE A GB OF THIS KB PM ME: Boss Papob#5943 on discord yes it you can still add friends with this -Boss 24/6/2023
 
 backplate screws incase they gave you wrong lenght https://www.mcmaster.com/93395A196/
 
