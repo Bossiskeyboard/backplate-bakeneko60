@@ -46,3 +46,4 @@ https://github.com/kb-elmo/simplified-daughterboard file
 if you need more help join this discord server 
 kkatano discord https://discord.gg/t2cubKte
 
+If you want to contact me on discord: Boss Papob#5943
