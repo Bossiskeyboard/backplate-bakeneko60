@@ -13,7 +13,7 @@ Credits to kkatano for the bakeneko keyboard
 
 I modified the side profiles of the case to be more like a unikorn
 
-JoeCastr for inspiration of a backplate bakeneko (which he takendown himself in fear that people will get mad at him)
+Inspired by Elaine's Unikorn
 
 You can contact these people to manufacture the keyboard case and backplate: https://www.instagram.com/gaojie.manufacturing.alva/, https://www.instagram.com/nash.prototype/ and https://www.instagram.com/wu.zamol/ if you are willing to pay the price of Al6063-T6 then i suggest you go with that for the case since it's what most endgame kb level use, if you want it to be budget level polycarbonate case or 6061 case
 
