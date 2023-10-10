@@ -3,6 +3,7 @@ Image:https://cdn.discordapp.com/attachments/1051737122274541608/112185052824312
 
 CANONKEYS PCB WILL NOT FIT
 
+IF YOU WANT A CHEAPER SWITCH PLATE GET IT CNC'D BY PCBWAY
 
 backplate screws incase they gave you wrong lenght https://www.mcmaster.com/93395A196/
 
