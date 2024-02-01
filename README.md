@@ -7,8 +7,8 @@ IF YOU WANT A CHEAPER SWITCH PLATE GET IT CNC'D BY PCBWAY
 
 backplate screws incase they gave you wrong lenght https://www.mcmaster.com/93395A196/
 
-Credits to Elaine for allowing me to make it open source and inspiration (consider supporting Elaine. If you have an opportunity to get a unikorn, I suggest you do so)
-since this keyboard here doesn't use the unikorn pcb, it is not considered to be a full clone of the keybaord
+Credits to Elaine for allowing me to make it open source and inspiration (consider supporting Elaine. If you have an opportunity to get a unikorn, I suggest you do so).
+Since this keyboard here doesn't use the unikorn pcb, it is not considered to be a full clone of the keybaord
 
 Credits to kkatano for the bakeneko keyboard
 
