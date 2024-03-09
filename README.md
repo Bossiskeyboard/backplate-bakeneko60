@@ -1,5 +1,5 @@
 # backplate-bakeneko60
-Image:https://cdn.discordapp.com/attachments/1051737122274541608/1121850528243122338/446a93ec-c6a8-45e0-a4bf-14b37e2bf2f4.PNG
+https://imgur.com/a/t6EJ2mT
 
 CANONKEYS PCB WILL NOT FIT
 
