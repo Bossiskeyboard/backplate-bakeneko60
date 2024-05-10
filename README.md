@@ -47,7 +47,7 @@ https://github.com/kb-elmo/simplified-daughterboard file
 
 # Discord Server
 if you need more help join this discord server 
-kkatano discord https://discord.gg/t2cubKte
+kkatano discord https://discord.gg/dKMMmT8vnu
 
 Contact bosspapob on discord if you need questions asked
 
