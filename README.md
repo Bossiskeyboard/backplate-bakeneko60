@@ -50,3 +50,6 @@ if you need more help join this discord server
 kkatano discord https://discord.gg/t2cubKte
 
 Contact bosspapob on discord if you need questions asked
+
+# Something I want to say
+I hope you like it
