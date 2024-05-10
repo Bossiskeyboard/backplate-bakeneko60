@@ -16,7 +16,9 @@ I modified the side profiles of the case to be more like a unikorn
 Thanks to Elaine and Yuktsi for the Unikorn keyboard design
 
 # People to contact for manufacturing
-You can contact these people to manufacture the keyboard case and backplate: nash.goajie on discord https://www.instagram.com/wu.zamol/ and gjhelen on discord if you are willing to pay the price of Al6063-T6 then i suggest you go with that for the case since it's what most endgame kb level use, if you want it to be budget level polycarbonate case or 6061 case. For People in the US, you can go with Rikkachet#2267 on discord to manufacture the kb though they might charge more than the chinese manufactures
+nash.gaojie on discord
+
+gjhelen on discord
 
 
 # PCB LIST
