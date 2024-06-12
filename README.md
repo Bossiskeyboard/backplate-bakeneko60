@@ -51,5 +51,9 @@ kkatano discord https://discord.gg/dKMMmT8vnu
 
 Contact bosspapob on discord if you need questions asked
 
+# Video of the Keyboard Case
+https://www.youtube.com/watch?v=iIp2oGb9rz0
+
+
 # Something I want to say
 I hope you like it
