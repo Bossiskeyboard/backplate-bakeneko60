@@ -52,7 +52,7 @@ kkatano discord https://discord.gg/dKMMmT8vnu
 Contact (bosspapob) on discord if you need questions asked
 
 # Video of the Keyboard Case
-https://www.youtube.com/watch?v=iIp2oGb9rz0
+https://youtu.be/iIp2oGb9rz0?si=msBZ12x7iNyXTaqd
 
 
 # Something I want to say
