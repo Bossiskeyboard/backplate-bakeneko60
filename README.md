@@ -49,7 +49,7 @@ https://github.com/kb-elmo/simplified-daughterboard file
 if you need more help join this discord server 
 kkatano discord https://discord.gg/dKMMmT8vnu
 
-Contact me boss.xci on discord if you need questions asked
+Contact me bosspapob on discord if you need questions asked
 
 # Video of the Keyboard Case
 https://youtu.be/iIp2oGb9rz0?si=msBZ12x7iNyXTaqd
